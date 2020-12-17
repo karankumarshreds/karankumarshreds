@@ -1,6 +1,6 @@
 <hr />
-<h1>Hello! 👋 </h1>
-<p align="left">My name is Karan Kumar and I am an engineer with interest and experience <br />in <strong>devops</strong>, <strong>cloud</strong>, <strong>continuous delivery</strong> and <strong>microservices</strong>.  <img align="right" width="280px" src="https://github.com/karankumarshreds/karankumarshreds/raw/main/giphy.gif">
+
+<p align="left">My name is Karan Kumar and I am an engineer with interest and experience <br />in <strong>devops</strong>, <strong>cloud</strong>, <strong>continuous delivery</strong> and <strong>microservices</strong>.  
  <br/> 
 Aside from that I'm well versed in Full Stack Development using:</p> 
 
