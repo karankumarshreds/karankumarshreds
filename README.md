@@ -4,7 +4,7 @@
  <br/> 
 Aside from that I'm well versed in Full Stack Development using:</p> 
 
-- Node, Express, React, Next, Javascript, Typescript, Python
+- Node, Express, React, Next, Redux, Javascript, Typescript, Python
 - Docker, Kubernetes, Microservices, Redis, TDD and AWS/GCP/DO cloud 
 
 Email me : illuminatekaran@gmail.com
