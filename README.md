@@ -11,6 +11,8 @@ Aside from that I'm well versed in <strong>Full Stack Development</strong> using
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS/GCP/DO cloud
 - <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD
 
+Currently working as a <strong>Devops Consultant</strong> @StatusNeo
+
 ✉️ : illuminatekaran@gmail.com
 <br />
 <br />
