@@ -6,8 +6,10 @@ My name is Karan Kumar and I am an engineer with interest and experience <br /> 
 <br /> 
 Aside from that I'm well versed in <strong>Full Stack Development</strong> using:</p> 
 
-- Node, Express, React, Next, Redux, Javascript, Typescript, Python
-- Docker, Kubernetes, Microservices, Redis, TDD, Terraform, AWS/GCP/DO cloud & more
+- <strong>Frameworks:</strong> Node(a runtime environment, ik), Express, React, Next, Redux
+- <strong>Languages:</strong> JavaScript, TypeScript, Python, Bash, Groovy
+- <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS/GCP/DO cloud
+- <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD
 
 ✉️ : illuminatekaran@gmail.com
 <br />
