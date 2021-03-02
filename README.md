@@ -1,10 +1,11 @@
 <hr />
 <hr />
 
-<p align="left">
-My name is Karan Kumar and I am an engineer with interest and experience in <strong>devops</strong>, <strong>cloud</strong>, <strong>continuous delivery</strong> and <strong>microservices</strong>.  <br /> 
+# Full Stack Developer + DevOps Engineer ( ...almost ) 
+
 <br /> 
-Aside from that I'm well versed in <strong>Full Stack Development</strong> using:</p> 
+
+## Expertise:
 
 - <strong>Frameworks:</strong> Node(a runtime environment, ik), Express(TDD), React+Redux(TDD), Next(ssr)
 - <strong>Languages:</strong> JavaScript, TypeScript, Python, Bash, Groovy
