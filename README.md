@@ -3,7 +3,6 @@
 
 # Full Stack Developer + DevOps Engineer ( ...almost ) 
 
-<br /> 
 
 ## Expertise:
 
