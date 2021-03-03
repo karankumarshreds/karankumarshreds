@@ -11,7 +11,7 @@
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS/GCP/DO cloud
 - <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD
 
-Currently working as a <strong>Devops Consultant</strong> @StatusNeo
+_Currently working as a <strong>Devops Consultant</strong> __@StatusNeo___
 
 ✉️ : illuminatekaran@gmail.com
 <br />
