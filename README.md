@@ -13,7 +13,7 @@
 
 
 
-<!-- <p align="center"><img width="500"src="https://github.com/karankumarshreds/karankumarshreds/blob/main/img.PNG"/></p> -->
+<p align="center"><img width="600"src="https://github.com/karankumarshreds/karankumarshreds/blob/main/persevere.jpg"/></p> 
 
 _Currently working as a <strong>Devops Consultant</strong> __@StatusNeo___
 
