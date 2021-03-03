@@ -1,7 +1,7 @@
 <hr />
 <hr />
 
-# Full Stack Developer + DevOps Engineer ( ...almost ) 
+# DevOps Engineer/Full Stack Developer ...almost 
 
 
 ## Expertise:
