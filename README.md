@@ -1,10 +1,10 @@
 <hr />
 <hr />
 
-# DevOps Engineer/Full Stack Developer ...almost 
+# DevOps Engineer/Full Stack Developer _...almost_ 
 
 
-## Expertise:
+## _Expertise:_
 
 - <strong>Frameworks:</strong> Node(a runtime environment, ik), Express(TDD), React+Redux(TDD), Next(ssr)
 - <strong>Languages:</strong> JavaScript, TypeScript, Python, Bash, Groovy
