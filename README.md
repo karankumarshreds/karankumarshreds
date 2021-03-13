@@ -6,8 +6,8 @@
 
 ## _Expertise:_
 
-- <strong>Frameworks:</strong> Node(a runtime environment, ik), Express(TDD), React+Redux(TDD), Next(ssr)
-- <strong>Languages:</strong> JavaScript, TypeScript, Python, Bash, Groovy
+- <strong>Frameworks:</strong> Node(a runtime environment, ik), Express(TDD), React+Redux(TDD), Next(ssr), Webpack
+- <strong>Languages:</strong> JavaScript, TypeScript, Python, Shell, Groovy
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS/GCP/DO cloud
 - <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD
 
