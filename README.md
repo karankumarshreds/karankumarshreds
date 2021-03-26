@@ -10,7 +10,7 @@
 _**Backend**_ Node(a runtime environment, ik), Express(TDD), Mongo, PostgreSQL, Microservices <br/>
 _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Webpack, MicroFrontends
 - <strong>Languages:</strong> JavaScript, TypeScript, Python, Shell, Groovy
-- <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS/GCP/DO cloud
+- <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS cloud
 - <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD
 
 
