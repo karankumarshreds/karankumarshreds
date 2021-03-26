@@ -6,8 +6,9 @@
 
 ## _Expertise:_
 
-- <strong>Frameworks:</strong> Node(a runtime environment, ik), Express(TDD), Mongo, PostgreSQL, Microservices <br/>
-React+Redux(TDD), Next(ssr), Webpack, MicroFrontends
+- <strong>Frameworks:</strong> <br/>
+**Backend** Node(a runtime environment, ik), Express(TDD), Mongo, PostgreSQL, Microservices <br/>
+**Frontend** React(TDD), Redux/Recoil, Next(ssr), Sass, Webpack, MicroFrontends
 - <strong>Languages:</strong> JavaScript, TypeScript, Python, Shell, Groovy
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS/GCP/DO cloud
 - <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD
