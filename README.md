@@ -7,7 +7,7 @@
 ## _Expertise:_
 
 - <strong>Development:</strong> <br/>
-_**Backend**_ Node(a runtime environment, ik), Express(TDD), Mongo, PostgreSQL, Microservices <br/>
+_**Backend**_ Node(a runtime environment, ik), Express(TDD), Serverless, Lambda, Mongo, PostgreSQL, Microservices <br/>
 _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Webpack, MicroFrontends
 - <strong>Languages:</strong> JavaScript, TypeScript, Python, Shell, Groovy
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS cloud
@@ -15,7 +15,7 @@ _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Webpack, MicroFrontend
 
 
 
-<p align="center"><img width="600"src="https://github.com/karankumarshreds/karankumarshreds/blob/main/persevere.jpg"/></p> 
+<p align="center"><img width="400"src="https://github.com/karankumarshreds/karankumarshreds/blob/main/persevere.jpg"/></p> 
 
 _Currently working as a <strong>Devops Consultant</strong> __@StatusNeo___
 
