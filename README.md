@@ -7,7 +7,7 @@
 ## _Expertise:_
 
 - <strong>Development:</strong> <br/>
-_**Backend**_ Node(a runtime environment, ik), Express(TDD), Serverless, Lambda, Mongo, PostgreSQL, Microservices <br/>
+_**Backend**_ Node(a runtime environment, ik), Express(TDD), Serverless, Lambda, Mongo, Microservices <br/>
 _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Webpack, MicroFrontends
 - <strong>Languages:</strong> JavaScript, TypeScript, Python, Shell, Groovy
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, AWS cloud
