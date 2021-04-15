@@ -15,9 +15,9 @@ _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Formik, Webpack, Micro
 
 
 
-<p align="center"><img width="400"src="https://github.com/karankumarshreds/karankumarshreds/blob/main/persevere.jpg"/></p> 
+<!-- <p align="center"><img width="400"src="https://github.com/karankumarshreds/karankumarshreds/blob/main/persevere.jpg"/></p> -->
 
-_Currently working as a <strong>Devops Consultant</strong> __@StatusNeo___
+_Currently working as a <strong>Devops Consultant & Developer </strong> __@StatusNeo___
 
 ✉️ : illuminatekaran@gmail.com
 <br />
