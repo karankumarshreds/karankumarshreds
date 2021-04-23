@@ -11,5 +11,4 @@ _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Formik, Webpack, Micro
 
 ✉️ : illuminatekaran@gmail.com
 
-<br />
 <hr />
