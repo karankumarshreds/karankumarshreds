@@ -11,6 +11,6 @@ _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Formik, Webpack, Micro
 - <strong>DevOps:</strong> Docker, Kubernetes, Microservices, Cloudformation, Terraform, __AWS cloud__ (strong knowledge)
 - <strong>Expertise:</strong> Microservices(both development and deployment), Automation, AWS, TDD and CICD -->
 
-✉️ : illuminatekaran@gmail.com
+<!-- ✉️ : illuminatekaran@gmail.com -->
 
 <hr />
