@@ -1,6 +1,6 @@
 <!-- <hr /> -->
 
-## Suffering is the true meaning of life
+# Suffering is the true meaning of life
 <!-- ## _Expertise:_ -->
 
 <!-- - <strong>Development:</strong> <br/>
