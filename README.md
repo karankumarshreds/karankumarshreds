@@ -1,4 +1,4 @@
-<hr />
+<!-- <hr /> -->
 
 ## Suffering is the true meaning of life
 <!-- ## _Expertise:_ -->
@@ -12,4 +12,4 @@ _**Frontend**_ React(TDD), Redux/Recoil, Next(ssr), Sass, Formik, Webpack, Micro
 
 <!-- ✉️ : illuminatekaran@gmail.com -->
 
-<hr />
+<!-- <hr /> -->
