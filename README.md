@@ -1,6 +1,6 @@
 <!-- <hr /> -->
 
-# Suffering is the true meaning of life
+To grow you must suffer
 <!-- ## _Expertise:_ -->
 
 <!-- - <strong>Development:</strong> <br/>
