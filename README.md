@@ -1,6 +1,6 @@
 <!-- <hr /> -->
 
-<h1> To grow you must suffer </h1>
+<h1 align="center"> To grow you must suffer </h1>
 <!-- ## _Expertise:_ -->
 
 <!-- - <strong>Development:</strong> <br/>
