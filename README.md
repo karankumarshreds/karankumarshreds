@@ -1,6 +1,7 @@
 <!-- <hr /> -->
 
-<h1 align="center"> To grow you must suffer </h1>
+<!-- <h1 align="center"> To grow you must suffer </h1> -->
+<h1 align="center">If I'm not good at it, I'll be great at it</h1>
 <!-- ## _Expertise:_ -->
 
 <!-- - <strong>Development:</strong> <br/>
