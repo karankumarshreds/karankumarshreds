@@ -1,5 +1,5 @@
 <!-- <hr /> -->
-# Suffering is the true meaning of life
+<h1 align="center"> Suffering is the true meaning of life </h1>
 <!-- <h2 align="center"> The most important step you take in life is the next one. </h2> -->
 <!-- <h1 align="center">If I'm not good at it, I'll be great at it</h1> -->
 <!--  -->
