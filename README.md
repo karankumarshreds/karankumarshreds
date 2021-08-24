@@ -1,9 +1,11 @@
 
- #### Full Stack Developer: Javascript, Typescript, Go, Python, Microservices
- #### Devops Engineer: CICD, Docker, Kubernetes (SME), AWS Cloud 
- #### Red Hat Certified Engineer (certified x2)
+ **Full Stack Developer:** Javascript, Typescript, Go, Python, Microservices
  
- &nbsp;
+ **Devops Engineer:** CICD, Docker, Kubernetes (SME), AWS Cloud 
+ 
+ **Red Hat Certified Engineer** (certified x2)
+ 
+
 
 | Social | Links |
 | ------ | ------ |
