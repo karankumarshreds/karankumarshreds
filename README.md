@@ -1,5 +1,5 @@
 
- **Full Stack Developer:** Javascript, Typescript, Go, Python, Microservices
+ **Full Stack Developer:** Javascript, Typescript, Go, Python, Rabbitmq, Microservices
  
  **Devops Engineer:** CICD, Docker, Kubernetes (SME), AWS Cloud 
  
