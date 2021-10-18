@@ -13,3 +13,6 @@
 | StackOverflow | https://stackoverflow.com/users/12954914/karan-kumar |
 | Blogs | https://dev.to/karankumarshreds |
 | Website | https://karankumar.live |
+
+
+#### Currently refactoring last week's legacy code...
