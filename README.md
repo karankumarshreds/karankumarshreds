@@ -15,4 +15,4 @@
 <!-- | Website | https://karankumar.live | -->
 
 
-#### Currently refactoring last week's legacy code...
+### Learning something new while you're reading this 🎉
