@@ -1,6 +1,6 @@
-<div align="center" width="800px">
 
- <div align="left">
+
+ <div float="left">
   
  **Full Stack Developer:** Javascript, Typescript, Go, Python, Rabbitmq, Microservices
  
@@ -9,10 +9,8 @@
  **Red Hat Certified Engineer** (certified x2) 
   
  </div>
- 
- </div>
- 
-<div align="center" width="800px">
+
+
 
 | Social | Links |
 | ------ | ------ |
@@ -20,5 +18,5 @@
 | StackOverflow | https://stackoverflow.com/users/12954914/karan-kumar |
 | Blogs | https://dev.to/karankumarshreds |
 
-</div>
+
 
