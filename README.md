@@ -1,12 +1,12 @@
 <div align="center" width="800px">
 
- <div>
+ <div align="left">
   
  **Full Stack Developer:** Javascript, Typescript, Go, Python, Rabbitmq, Microservices
  
  **Devops Engineer:** CICD, Docker, Github Actions,  Kubernetes (SME) & AWS Cloud 
- 
- **Red Hat Certified Engineer** (certified x2)
+  
+ **Red Hat Certified Engineer** (certified x2) 
   
  </div>
  
@@ -21,9 +21,4 @@
 | Blogs | https://dev.to/karankumarshreds |
 
 </div>
- 
-<p align="center">
- <img src="https://github.com/karankumarshreds/karankumarshreds/blob/main/asdf.gif" />
-</p>
 
-<h3 align="center"> Learning something new while you're reading this 🎉 </h3>
