@@ -1,6 +1,6 @@
 
 
- <div float="left">
+<!--  <div float="left">
   
  **Full Stack Developer:** Javascript, Typescript, Go, Python, Rabbitmq, Microservices
  
@@ -8,7 +8,7 @@
   
  **Red Hat Certified Engineer** (certified x2) 
   
- </div>
+ </div> -->
 
 
 
