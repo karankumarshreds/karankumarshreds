@@ -1,6 +1,6 @@
 ### Company Profile : <a href="https://github.com/karanmckinsey">@karanmckinsey</a>
 
-### Currently Building <a href="https://github.com/karankumarshreds/Websockets">< Go Websockets w/ Redis /> </a> 🔥
+### Currently Building <a href="https://github.com/karankumarshreds/Websockets">Go Websockets w/ Redis</a> 🔥
 
 <!--  <div float="left">
   
