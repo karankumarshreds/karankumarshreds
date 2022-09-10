@@ -1,7 +1,5 @@
 ### Company Profile : <a href="https://github.com/karanmckinsey">@karanmckinsey</a>
 
-### Currently Building <a href="https://github.com/karankumarshreds/Websockets">Go Websockets w/ Redis</a> 🔥
-
 <!--  <div float="left">
   
  **Full Stack Developer:** Javascript, Typescript, Go, Python, Rabbitmq, Microservices
